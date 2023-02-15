@@ -1,10 +1,10 @@
 ## project Vinyle
 
 TODO:
-- [ ] Installer nodemon
-- [ ] Installer express
-- [ ] Installer mongoose
-- [ ] Installer multer
+- [x] Installer nodemon
+- [x] Installer express
+- [x] Installer mongoose
+- [x] Installer multer
 
     - Models
         - [ ] Model song
